@@ -79,7 +79,7 @@ most used s-s-sociaw things >~<</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.pinimg.com/originals/b5/b3/2c/b5b32c6ea2762a134c993be293d20e9c.giff">
+<img src="https://i.pinimg.com/originals/b5/b3/2c/b5b32c6ea2762a134c993be293d20e9c.gif">
 </div>
 <hr>
 </div>
