@@ -74,8 +74,8 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+most used s-s-sociaw things >~<</p>
+<p align="center"><a href="https://twitter.com/Asano_Senpai" target="_blank"><img src="https://img.shields.io/badge/Asano_Senpai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/J9Vg7uv8zj" target="_blank"><img src="https://img.shields.io/badge/Haifunime+•+ハイフニメ%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
