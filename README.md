@@ -62,7 +62,15 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
+<div>
+  <a href="https://github.com/asanosenpai/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asanosenpai&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/asanosenpai/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
 ![Asano_Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=asanosenpai&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanosenpai&layout=compact&theme=tokyonight)
+</div>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
