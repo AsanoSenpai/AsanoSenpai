@@ -21,7 +21,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/79/77/4a/79774a28567c6e503edb4aff45e70bce.gif" align="right">
+<img src="https://media.tenor.com/StUTgeE1ZLwAAAAM/anime-senko-san.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Asano</li>
