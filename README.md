@@ -62,6 +62,8 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
+![Asano_Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=asanosenpai&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanosenpai&layout=compact&theme=tokyonight)
+<br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
@@ -82,7 +84,3 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
     </center>
 </body>
-
-![Asano_Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=asanosenpai&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanosenpai&layout=compact&theme=tokyonight)
