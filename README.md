@@ -62,7 +62,7 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br><br><br>
-<div>
+<div align="center">
   <a href="https://github.com/asanosenpai/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asanosenpai&show_icons=true&theme=tokyonight" />
   </a>
