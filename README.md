@@ -26,7 +26,7 @@
 <li>
  <b>Name:</b> Asano</li>
 <li>
-<b>Waifu:</b> Raphtalia
+<b>Waifu:</b> Senko-san
 </li>
 <li>
 <b>Loves:</b> Animes, Fortnite, Minecraft and Japan Universe (Culture and Traditions)
