@@ -28,22 +28,19 @@
 <li>
  <b>Name:</b> Asano</li>
 <li>
-<b>Fursona:</b> Snow Fox
+<b>Waifu:</b> Raphtalia
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> Animes, Fortnite, Minecraft and Japan Universe (Culture and Traditions)
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> Him/He/Male ♂
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>Hobbys:</b> Build Lego sets (City, Star Wars, Ideas, Creator and Creator Expert), Develop and administer Haifunime
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> Haifunime Studios
 </li>
 <br><br><br>
 </div>
