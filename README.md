@@ -47,7 +47,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/872997578168418387/7F62E8E1786476F600164A5FBAA3C6C682CFD24C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right">
   </div>
 </div>
 <div>
